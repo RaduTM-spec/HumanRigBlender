@@ -1,3 +1,4 @@
 # HumanRigBlender
-![alt text](BodyMesh.png)
+![Image](BodyMesh.png)
+
 It does not include InverseKinematics.
